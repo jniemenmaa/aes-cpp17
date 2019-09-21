@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tyiny-aes-cpp17", "tiny-aes-cpp17.vcxproj", "{03A5C949-B611-4862-94B5-348362A9BFF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03A5C949-B611-4862-94B5-348362A9BFF0}.Debug|x64.ActiveCfg = Debug|x64
+		{03A5C949-B611-4862-94B5-348362A9BFF0}.Debug|x64.Build.0 = Debug|x64
+		{03A5C949-B611-4862-94B5-348362A9BFF0}.Release|x64.ActiveCfg = Release|x64
+		{03A5C949-B611-4862-94B5-348362A9BFF0}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {376C4BCA-8B2F-48D9-989D-678EA146B03A}
+	EndGlobalSection
+EndGlobal
