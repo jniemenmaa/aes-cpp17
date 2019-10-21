@@ -5,16 +5,32 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tyiny-aes-cpp17", "tiny-aes-cpp17.vcxproj", "{03A5C949-B611-4862-94B5-348362A9BFF0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tiny-aes-cpp17-test", "tiny-aes-cpp17-test\tiny-aes-cpp17-test.vcxproj", "{F2E47491-6C93-4F4C-BD75-C829B72E9D2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
 		Release|x64 = Release|x64
+		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{03A5C949-B611-4862-94B5-348362A9BFF0}.Debug|x64.ActiveCfg = Debug|x64
 		{03A5C949-B611-4862-94B5-348362A9BFF0}.Debug|x64.Build.0 = Debug|x64
+		{03A5C949-B611-4862-94B5-348362A9BFF0}.Debug|x86.ActiveCfg = Debug|Win32
+		{03A5C949-B611-4862-94B5-348362A9BFF0}.Debug|x86.Build.0 = Debug|Win32
 		{03A5C949-B611-4862-94B5-348362A9BFF0}.Release|x64.ActiveCfg = Release|x64
 		{03A5C949-B611-4862-94B5-348362A9BFF0}.Release|x64.Build.0 = Release|x64
+		{03A5C949-B611-4862-94B5-348362A9BFF0}.Release|x86.ActiveCfg = Release|Win32
+		{03A5C949-B611-4862-94B5-348362A9BFF0}.Release|x86.Build.0 = Release|Win32
+		{F2E47491-6C93-4F4C-BD75-C829B72E9D2D}.Debug|x64.ActiveCfg = Debug|x64
+		{F2E47491-6C93-4F4C-BD75-C829B72E9D2D}.Debug|x64.Build.0 = Debug|x64
+		{F2E47491-6C93-4F4C-BD75-C829B72E9D2D}.Debug|x86.ActiveCfg = Debug|Win32
+		{F2E47491-6C93-4F4C-BD75-C829B72E9D2D}.Debug|x86.Build.0 = Debug|Win32
+		{F2E47491-6C93-4F4C-BD75-C829B72E9D2D}.Release|x64.ActiveCfg = Release|x64
+		{F2E47491-6C93-4F4C-BD75-C829B72E9D2D}.Release|x64.Build.0 = Release|x64
+		{F2E47491-6C93-4F4C-BD75-C829B72E9D2D}.Release|x86.ActiveCfg = Release|Win32
+		{F2E47491-6C93-4F4C-BD75-C829B72E9D2D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
